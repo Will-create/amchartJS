@@ -1,0 +1,31 @@
+/* input, button, select, optgroup, textarea {
+
+ 
+    width: 70%;
+
+} */
+
+body{
+   scroll-behavior: none;
+}
+
+.marge{
+    margin-bottom: 3%;
+}
+h2{
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mon_titre{
+    margin: 6%;
+}
+
+.container-fluid {
+
+    width: 100%;
+    padding-right: 0.20%;
+    padding-left: 0.20%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
